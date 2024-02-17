@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on **Pega Projects**
 
-- 🌱 I’m currently learning **HTML,Javascript!**
+- 🌱 I’m currently learning **HTML,Css,Javascript!**
 
-- 👯 I’m looking to collaborate on **IT Industry**
+- 👯 I’m looking to collaborate on **IT or Non IT Industry**
 
 - 💬 Ask me about **Pega8.8,Computer Networking,Digital Marketing**
 
 - 📫 How to reach me **inddira.arumugam1305@gmail.com**
 
-- ⚡ Fun fact **I Think Im Funny**
+- ⚡ Freak fact **Generating Skill vs Admiring Learnings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
