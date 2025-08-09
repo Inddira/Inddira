@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/inddira" target="blank"><img src="https://img.shields.io/twitter/follow/inddira?logo=twitter&style=for-the-badge" alt="inddira" /></a> </p>
 
-- 🔭 I’m currently working on **Pega Projects**
+- 🔭 I’m currently working on **Tata Consultancy Services**
 
-- 🌱 I’m currently learning **HTML,Css,Javascript!**
+- 🌱 I’m currently learning **HTML,CSS,Javascript,Node.Js,EJS,React.Js,Bootstrap**
 
 - 👯 I’m looking to collaborate on **IT or Non IT Industry**
 
-- 💬 Ask me about **Pega8.8,Computer Networking,Digital Marketing**
+- 💬 Ask me about **Pega8.8,Digital Marketing,Web Development**
 
 - 📫 How to reach me **inddira.arumugam1305@gmail.com**
 
